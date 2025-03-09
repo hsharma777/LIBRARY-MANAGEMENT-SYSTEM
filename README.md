@@ -1,1 +1,2 @@
 # LIBRARY-MANAGEMENT-SYSTEM
+The library management system is a simple console-based application that allows the library admin to manage users and books. It supports functionalities such as adding users and books, searching for books by title, displaying users and books, and allowing users to borrow books (if available). The system uses arrays to store user and book information, with each book and user assigned a unique ID.
